@@ -5,7 +5,7 @@
 - [Jason Dion Cysa+ Course](https://www.udemy.com/course/comptia-cysa-003/)
 - [CompTIA Study Guide](https://www.amazon.com/CompTIA-CySA-Study-Guide-CS0-003-ebook/dp/B0C6WC8L5)
 
-## Section
+## Sections
 
 - [Exam Details](01-exam-details.md)
 - [Identify Security Control Types](02-identify-security-control-types.md)
