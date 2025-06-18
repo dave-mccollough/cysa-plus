@@ -11,4 +11,5 @@
 - [Identify Security Control Types](02-identify-security-control-types.md)
 - [Threat Intelligence Sharing](03-threat-intelligence-sharing.md)
 - [Classifyng Threats](04-classifying-threats.md)
+- [Threat Hunting](05-threat-hunting.md)
 
